@@ -110,5 +110,16 @@ nav .nav-bar .logo{
   color: #ffffff;
   border-radius: 5px;
   cursor: pointer;
+}
+.texto .txt{
+  font-size: 20px;
+  color: var(--text-color);
+  text-decoration: none;
 
+}
+.texto .lula{
+  display: flex;
+  position: center;
+  width: 500px;
+  height: auto;
 }
